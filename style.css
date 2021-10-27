@@ -1,0 +1,100 @@
+.cheat-a{
+    color: aquamarine;
+    background-color: black;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: darkred 5px solid;
+    margin: 5px;
+}
+
+.cheat-a p{
+    color: cadetblue;
+}
+
+.cheat-b{
+    background-color: black;
+    color: red;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: darkred 5px solid;
+    margin: 5px;
+}
+
+.cheat-b p{
+    color: crimson;
+}
+
+.cheat-c{
+    background-color: black;
+    color: lightgreen;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: darkred 5px solid;
+    margin: 5px;
+}
+
+.cheat-c p{
+    color: darkseagreen;
+}
+
+.cheat-d{
+    background-color: black;
+    color: blue;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: darkred 5px solid;
+    margin: 5px;
+}
+
+.cheat-d p{
+    color: dodgerblue;
+}
+
+.cheat-e{
+    background-color: black;
+    color: orange;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: darkred 5px solid;
+    margin: 5px;
+}
+
+.cheat-e p{
+    color: rgb(148, 106, 0);
+}
+
+.cheat-f{
+    background-color: aquamarine;
+    color: black;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: black 5px solid;
+    margin: 5px;
+}
+
+.cheat-g{
+    background-color: red;
+    color: black;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: black 5px solid;
+    margin: 5px;
+}
+
+.cheat-h{
+    background-color: lightgreen;
+    color: black;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: black 5px solid;
+    margin: 5px;
+}
+
+.cheat-i{
+    background-color: blue;
+    color: black;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: black 5px solid;
+    margin: 5px;
+}
